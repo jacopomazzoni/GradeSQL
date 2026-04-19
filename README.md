@@ -210,8 +210,6 @@ The report also recalculates:
 
 ## 📚 Sources
 
-The course context in this README is based on the following public pages:
-
 - Harpur Edge: [Harpur Edge Crash Courses](https://www.binghamton.edu/harpur/edge/professional/crash-course.html)
 - Binghamton course catalog: [DIDA 110 / Database Fundamentals (SQL)](https://catalog.binghamton.edu/preview_course_nopop.php?catoid=2&coid=31566)
 - Digital and Data Studies: [Data Science and Analytics](https://www.binghamton.edu/academics/programs/digital-and-data-studies/professional/data-science-analytics.html)
